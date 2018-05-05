@@ -1,4 +1,6 @@
-# WebVR Photosphere Viewer with Navigation Menu
+# WebVR Photosphere Viewer with Navigation Menu (deprecated)
+
+## This theme is deprecated. Find the new one here: https://github.com/IdeaSpaceVR/IdeaSpace-360
 
 ![alt text](https://raw.githubusercontent.com/IdeaSpaceVR/aframe-360-degree-photosphere/master/images/aframe-360-degree-photosphere-viewer.png "aframe-360-degree-photosphere")
 
@@ -7,10 +9,6 @@
 - Smartphone: Works best with Google Cardboard v2 (with button) on iPhone and Android devices using a standard Chrome web browser.
 - Desktop PC: Oculus Rift with Firefox Nightly web browser or Google Chrome web browser (special WebVR build).
 - Desktop PC: HTC Vive? (sorry, untested).
-
-### Live Example (impl. with IdeaSpaceVR CMS using dynamic image loading via JSON):
-
-- https://www.ideaspacevr.org/themes/web-vr-photo-sphere-viewer-navigation-menu
 
 ### Instructions for Desktop PC (Oculus Rift / HTC Vive):
 
